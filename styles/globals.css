@@ -1,3 +1,6 @@
+@import "tailwindcss";
+@source "../pages";
+
 @layer base {
   .markdown-content h1 {
     font-size: 2em;
