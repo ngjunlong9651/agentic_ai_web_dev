@@ -1,5 +1,3 @@
-"use client";
-
 import { useState, FormEvent } from "react";
 import { useAuth } from "@clerk/nextjs";
 import DatePicker from "react-datepicker";
