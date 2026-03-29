@@ -175,7 +175,7 @@ export default function Product() {
 
       {/* Subscription Protection */}
       <Protect
-        plan="premium_subscription"
+        plan="maintain_plan"
         fallback={
           <div className="container mx-auto px-4 py-12">
             <header className="text-center mb-12">
